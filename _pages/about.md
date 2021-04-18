@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Federica Arrigoni
-description: Assistant Professor @ University of Trento
+description: Assistant Professor <br> University of Trento
 
 profile:
   align: right
