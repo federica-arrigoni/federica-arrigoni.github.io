@@ -4,5 +4,6 @@ date: 2021-07-14
 inline: true
 ---
 
-1st Workshop on Traditional Computer Vision in the Age of Deep Learning in conjunction with <strong>ICCV</strong>
-[https://sites.google.com/view/tradicv/](https://sites.google.com/view/tradicv/) 
+The 1st Workshop on <strong>Traditional Computer Vision in the Age of Deep Learning</strong> will be held in conjunction with ICCV: [https://sites.google.com/view/tradicv/](https://sites.google.com/view/tradicv/)
+
+An <strong>IJCV special issue</strong> will follow: [https://www.springer.com/journal/11263/updates/19335400](https://www.springer.com/journal/11263/updates/19335400)
