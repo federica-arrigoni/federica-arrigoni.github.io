@@ -7,10 +7,12 @@ inline: true
 Two papers accepted at <strong>ICCV<strong>! 
 
 <br>
-
-Federica Arrigoni, Andrea Fusiello, Elisa Ricci and Tomas Pajdla. Viewing graph solvability via cycle consistency (<strong>oral<strong>).
-
 <br>
 
-Andrea Porfiri Dal Cin, Luca Magri, Federica Arrigoni, Andrea Fusiello and Giacomo Boracchi. Synchronization of group-labelled multi-graphs.
+Federica Arrigoni, Andrea Fusiello, Elisa Ricci and Tomas Pajdla. <strong>Viewing graph solvability via cycle consistency<strong> (oral).
+
+<br>
+<br>
+
+Andrea Porfiri Dal Cin, Luca Magri, Federica Arrigoni, Andrea Fusiello and Giacomo Boracchi. <strong> Synchronization of group-labelled multi-graphs<strong>.
 
