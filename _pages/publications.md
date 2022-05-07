@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 procyears: [2021, 2020, 2019, 2017, 2016, 2015, 2014]
-jouryears: [2020, 2019, 2018, 2016]
+jouryears: [2022, 2020, 2019, 2018, 2016]
 ---
 
 <h4>Journals</h4>
