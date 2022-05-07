@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 
 teachyears: [2021]
-tutyears: [2020]
+tutyears: [2022, 2020]
 ---
 
 <h4>Courses </h4>
