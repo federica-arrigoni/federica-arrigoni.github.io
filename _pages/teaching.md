@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: 
-teachyears: [2021]
-tutyears: [2022, 2020]
+teachyears: [2024, 2022, 2021]
+tutyears: [2024, 2022, 2020]
 ---
 
 <h4>Courses </h4>

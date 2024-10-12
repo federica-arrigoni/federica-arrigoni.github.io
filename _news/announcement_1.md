@@ -1,11 +1,7 @@
 ---
 layout: post
-date: 2021-07-14 
+date: 2021-10-12 
 inline: true
 ---
 
-The 1st Workshop on <strong>Traditional Computer Vision in the Age of Deep Learning</strong> will be held in conjunction with ICCV: [https://sites.google.com/view/tradicv/](https://sites.google.com/view/tradicv/)
-
-<br>
-
-An <strong>IJCV special issue</strong> will follow: [https://www.springer.com/journal/11263/updates/19335400](https://www.springer.com/journal/11263/updates/19335400)
+<strong>Best Paper Honorable Mention</strong> at ICCV 2021 - Federica Arrigoni, Andrea Fusiello, Elisa Ricci and Tomas Pajdla. Viewing graph solvability via cycle consistency. [https://iccv2021.thecvf.com/iccv-2021-paper-awards](https://iccv2021.thecvf.com/iccv-2021-paper-awards)

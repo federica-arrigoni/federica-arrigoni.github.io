@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-02-15 
+date: 2024-10-01 
 inline: true
 ---
 
-The tutorial entitled <strong>Inside Plato’s door: a tour in Multi-view Geometry</strong> will be held in conjunction with CVPR: [https://sites.google.com/view/platomultiview/](https://sites.google.com/view/platomultiview/)
+I became associate professor at Politecnico di Milano!
